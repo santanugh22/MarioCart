@@ -28,6 +28,9 @@ class Player(pygame.sprite.Sprite):
 
         self.rect.x=self.direction.x
 
+        def gravity(self):
+            pass
+
 
 
  
